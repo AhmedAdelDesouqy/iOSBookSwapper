@@ -7,10 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8C107BF21CEC7F7100B2966B /* Logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C107BF11CEC7F7100B2966B /* Logo1.png */; };
-		8C107BF41CEC8B6A00B2966B /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C107BF31CEC8B6A00B2966B /* MyTableViewController.swift */; };
-		8C5138391CF0547C00A63D34 /* download.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C5138381CF0547C00A63D34 /* download.png */; };
-		8C51383D1CF0557700A63D34 /* pic6.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C51383C1CF0557700A63D34 /* pic6.png */; };
+		8C1385BE1CF3686B00BAC12D /* rsz_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C1385BD1CF3686B00BAC12D /* rsz_arrow.png */; };
+		8C1385C01CF3690000BAC12D /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C1385BF1CF3690000BAC12D /* ProfileViewController.swift */; };
+		8C4E83651CF2E875000B8B8E /* rsz_983834-books.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C4E83641CF2E875000B8B8E /* rsz_983834-books.png */; };
 		8CF84CDD1CEC6495007AAB15 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF84CDC1CEC6495007AAB15 /* AppDelegate.swift */; };
 		8CF84CDF1CEC6495007AAB15 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF84CDE1CEC6495007AAB15 /* ViewController.swift */; };
 		8CF84CE21CEC6495007AAB15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CF84CE01CEC6495007AAB15 /* Main.storyboard */; };
@@ -18,6 +17,12 @@
 		8CF84CE71CEC6495007AAB15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CF84CE51CEC6495007AAB15 /* LaunchScreen.storyboard */; };
 		8CF84CF21CEC6496007AAB15 /* BookSwapTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF84CF11CEC6496007AAB15 /* BookSwapTests.swift */; };
 		8CF84CFD1CEC6496007AAB15 /* BookSwapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF84CFC1CEC6496007AAB15 /* BookSwapUITests.swift */; };
+		8CFD07551CF20A080096D29F /* icon_bell.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CFD07541CF20A080096D29F /* icon_bell.png */; };
+		8CFD07571CF20A790096D29F /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CFD07561CF20A790096D29F /* home.png */; };
+		8CFD07591CF20AEB0096D29F /* icon_user.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CFD07581CF20AEB0096D29F /* icon_user.png */; };
+		8CFD075B1CF20FC10096D29F /* open-book-art-wallpaper-768x480.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8CFD075A1CF20FC10096D29F /* open-book-art-wallpaper-768x480.jpg */; };
+		8CFD075D1CF211FF0096D29F /* 983834-books.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8CFD075C1CF211FF0096D29F /* 983834-books.jpg */; };
+		8CFD075F1CF216610096D29F /* MainCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFD075E1CF216610096D29F /* MainCollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,10 +43,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8C107BF11CEC7F7100B2966B /* Logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo1.png; path = ../../../Logo1.png; sourceTree = "<group>"; };
-		8C107BF31CEC8B6A00B2966B /* MyTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
-		8C5138381CF0547C00A63D34 /* download.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = download.png; path = ../../../download.png; sourceTree = "<group>"; };
-		8C51383C1CF0557700A63D34 /* pic6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pic6.png; path = ../../../pic6.png; sourceTree = "<group>"; };
+		8C1385BD1CF3686B00BAC12D /* rsz_arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rsz_arrow.png; sourceTree = "<group>"; };
+		8C1385BF1CF3690000BAC12D /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		8C4E83641CF2E875000B8B8E /* rsz_983834-books.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rsz_983834-books.png"; sourceTree = "<group>"; };
 		8CF84CD91CEC6495007AAB15 /* BookSwap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookSwap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CF84CDC1CEC6495007AAB15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8CF84CDE1CEC6495007AAB15 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +59,12 @@
 		8CF84CF81CEC6496007AAB15 /* BookSwapUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BookSwapUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CF84CFC1CEC6496007AAB15 /* BookSwapUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookSwapUITests.swift; sourceTree = "<group>"; };
 		8CF84CFE1CEC6496007AAB15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CFD07541CF20A080096D29F /* icon_bell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bell.png; sourceTree = "<group>"; };
+		8CFD07561CF20A790096D29F /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
+		8CFD07581CF20AEB0096D29F /* icon_user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_user.png; sourceTree = "<group>"; };
+		8CFD075A1CF20FC10096D29F /* open-book-art-wallpaper-768x480.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "open-book-art-wallpaper-768x480.jpg"; sourceTree = "<group>"; };
+		8CFD075C1CF211FF0096D29F /* 983834-books.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "983834-books.jpg"; sourceTree = "<group>"; };
+		8CFD075E1CF216610096D29F /* MainCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainCollectionViewController.swift; path = ../MainCollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +95,7 @@
 		8CF84CD01CEC6495007AAB15 = {
 			isa = PBXGroup;
 			children = (
-				8C107BF31CEC8B6A00B2966B /* MyTableViewController.swift */,
+				8CFD07531CF209EF0096D29F /* imgs */,
 				8CF84CDB1CEC6495007AAB15 /* BookSwap */,
 				8CF84CF01CEC6496007AAB15 /* BookSwapTests */,
 				8CF84CFB1CEC6496007AAB15 /* BookSwapUITests */,
@@ -106,15 +116,14 @@
 		8CF84CDB1CEC6495007AAB15 /* BookSwap */ = {
 			isa = PBXGroup;
 			children = (
-				8C51383C1CF0557700A63D34 /* pic6.png */,
-				8C5138381CF0547C00A63D34 /* download.png */,
-				8C107BF11CEC7F7100B2966B /* Logo1.png */,
+				8CFD075E1CF216610096D29F /* MainCollectionViewController.swift */,
 				8CF84CDC1CEC6495007AAB15 /* AppDelegate.swift */,
 				8CF84CDE1CEC6495007AAB15 /* ViewController.swift */,
 				8CF84CE01CEC6495007AAB15 /* Main.storyboard */,
 				8CF84CE31CEC6495007AAB15 /* Assets.xcassets */,
 				8CF84CE51CEC6495007AAB15 /* LaunchScreen.storyboard */,
 				8CF84CE81CEC6495007AAB15 /* Info.plist */,
+				8C1385BF1CF3690000BAC12D /* ProfileViewController.swift */,
 			);
 			path = BookSwap;
 			sourceTree = "<group>";
@@ -135,6 +144,20 @@
 				8CF84CFE1CEC6496007AAB15 /* Info.plist */,
 			);
 			path = BookSwapUITests;
+			sourceTree = "<group>";
+		};
+		8CFD07531CF209EF0096D29F /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				8C1385BD1CF3686B00BAC12D /* rsz_arrow.png */,
+				8C4E83641CF2E875000B8B8E /* rsz_983834-books.png */,
+				8CFD075C1CF211FF0096D29F /* 983834-books.jpg */,
+				8CFD07581CF20AEB0096D29F /* icon_user.png */,
+				8CFD07561CF20A790096D29F /* home.png */,
+				8CFD075A1CF20FC10096D29F /* open-book-art-wallpaper-768x480.jpg */,
+				8CFD07541CF20A080096D29F /* icon_bell.png */,
+			);
+			name = imgs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -242,11 +265,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CF84CE71CEC6495007AAB15 /* LaunchScreen.storyboard in Resources */,
-				8C5138391CF0547C00A63D34 /* download.png in Resources */,
+				8CFD07571CF20A790096D29F /* home.png in Resources */,
 				8CF84CE41CEC6495007AAB15 /* Assets.xcassets in Resources */,
-				8C107BF21CEC7F7100B2966B /* Logo1.png in Resources */,
+				8C1385BE1CF3686B00BAC12D /* rsz_arrow.png in Resources */,
 				8CF84CE21CEC6495007AAB15 /* Main.storyboard in Resources */,
-				8C51383D1CF0557700A63D34 /* pic6.png in Resources */,
+				8CFD07551CF20A080096D29F /* icon_bell.png in Resources */,
+				8CFD075D1CF211FF0096D29F /* 983834-books.jpg in Resources */,
+				8CFD075B1CF20FC10096D29F /* open-book-art-wallpaper-768x480.jpg in Resources */,
+				8CFD07591CF20AEB0096D29F /* icon_user.png in Resources */,
+				8C4E83651CF2E875000B8B8E /* rsz_983834-books.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +299,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CF84CDF1CEC6495007AAB15 /* ViewController.swift in Sources */,
-				8C107BF41CEC8B6A00B2966B /* MyTableViewController.swift in Sources */,
+				8CFD075F1CF216610096D29F /* MainCollectionViewController.swift in Sources */,
+				8C1385C01CF3690000BAC12D /* ProfileViewController.swift in Sources */,
 				8CF84CDD1CEC6495007AAB15 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
